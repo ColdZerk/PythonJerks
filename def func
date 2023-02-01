@@ -1,0 +1,6 @@
+def printmefast( str ):
+   "This func prints string into this function"
+   print str
+   return;
+   
+printmefast("I'm gonna win!")
